@@ -1,5 +1,5 @@
 # DataStructuresAndAlgorithmsSampleQuestions
-## ⚠ not placed in the exact order stated below her but in the 👆 files we have 👇
+## ⚠ not placed in the exact order stated below here 👇 but in the files 👆 we have
 1. A javascript function that reverses a string
 2. A palindrome checker
 3. A function that capitalizes the first letter in any sentence
